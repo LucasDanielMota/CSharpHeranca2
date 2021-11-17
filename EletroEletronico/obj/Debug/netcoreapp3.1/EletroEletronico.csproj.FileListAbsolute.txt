@@ -1,0 +1,13 @@
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\bin\Debug\netcoreapp3.1\EletroEletronico.exe
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\bin\Debug\netcoreapp3.1\EletroEletronico.deps.json
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\bin\Debug\netcoreapp3.1\EletroEletronico.runtimeconfig.json
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\bin\Debug\netcoreapp3.1\EletroEletronico.runtimeconfig.dev.json
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\bin\Debug\netcoreapp3.1\EletroEletronico.dll
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\bin\Debug\netcoreapp3.1\EletroEletronico.pdb
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.csproj.AssemblyReference.cache
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.AssemblyInfoInputs.cache
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.AssemblyInfo.cs
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.csproj.CoreCompileInputs.cache
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.dll
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.pdb
+C:\Users\e104ti.MATRIZ-ARTUR\source\repos\EletroEletronico\EletroEletronico\obj\Debug\netcoreapp3.1\EletroEletronico.genruntimeconfig.cache
